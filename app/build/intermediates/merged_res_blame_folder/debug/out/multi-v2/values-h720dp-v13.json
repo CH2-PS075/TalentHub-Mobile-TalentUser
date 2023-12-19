@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.ch2ps075.talenthub.app-mergeDebugResources-42:/values-h720dp-v13/values-h720dp-v13.xml",
+            "map": [
+                {
+                    "source": "D:\\Application\\TalentHub-Mobile-main\\caches\\transforms-3\\df8fd3ea305061ff6a0a98c05bafc5fb\\transformed\\appcompat-1.6.1\\res\\values-h720dp-v13\\values-h720dp-v13.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "66",
+                        "endOffsets": "117"
+                    }
+                }
+            ]
+        }
+    ]
+}

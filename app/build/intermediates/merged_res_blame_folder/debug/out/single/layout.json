@@ -1,0 +1,98 @@
+[
+    {
+        "merged": "D:\\Application\\TalentHub-Mobile-main\\daemon\\8.0\\com.ch2ps075.talenthub.app-mergeDebugResources-43:\\layout\\dialog_sheet_layout.xml",
+        "source": "D:\\Application\\TalentHub-Mobile-main\\daemon\\8.0\\com.ch2ps075.talenthub.app-main-46:\\layout\\dialog_sheet_layout.xml"
+    },
+    {
+        "merged": "D:\\Application\\TalentHub-Mobile-main\\daemon\\8.0\\com.ch2ps075.talenthub.app-mergeDebugResources-43:\\layout\\fragment_home.xml",
+        "source": "D:\\Application\\TalentHub-Mobile-main\\daemon\\8.0\\com.ch2ps075.talenthub.app-main-46:\\layout\\fragment_home.xml"
+    },
+    {
+        "merged": "D:\\Application\\TalentHub-Mobile-main\\daemon\\8.0\\com.ch2ps075.talenthub.app-mergeDebugResources-43:\\layout\\fragment_favorite.xml",
+        "source": "D:\\Application\\TalentHub-Mobile-main\\daemon\\8.0\\com.ch2ps075.talenthub.app-main-46:\\layout\\fragment_favorite.xml"
+    },
+    {
+        "merged": "D:\\Application\\TalentHub-Mobile-main\\daemon\\8.0\\com.ch2ps075.talenthub.app-mergeDebugResources-43:\\layout\\activity_welcome.xml",
+        "source": "D:\\Application\\TalentHub-Mobile-main\\daemon\\8.0\\com.ch2ps075.talenthub.app-main-46:\\layout\\activity_welcome.xml"
+    },
+    {
+        "merged": "D:\\Application\\TalentHub-Mobile-main\\daemon\\8.0\\com.ch2ps075.talenthub.app-mergeDebugResources-43:\\layout\\fragment_portfolio_talent.xml",
+        "source": "D:\\Application\\TalentHub-Mobile-main\\daemon\\8.0\\com.ch2ps075.talenthub.app-main-46:\\layout\\fragment_portfolio_talent.xml"
+    },
+    {
+        "merged": "D:\\Application\\TalentHub-Mobile-main\\daemon\\8.0\\com.ch2ps075.talenthub.app-mergeDebugResources-43:\\layout\\fragment_section_pager.xml",
+        "source": "D:\\Application\\TalentHub-Mobile-main\\daemon\\8.0\\com.ch2ps075.talenthub.app-main-46:\\layout\\fragment_section_pager.xml"
+    },
+    {
+        "merged": "D:\\Application\\TalentHub-Mobile-main\\daemon\\8.0\\com.ch2ps075.talenthub.app-mergeDebugResources-43:\\layout\\fragment_ai.xml",
+        "source": "D:\\Application\\TalentHub-Mobile-main\\daemon\\8.0\\com.ch2ps075.talenthub.app-main-46:\\layout\\fragment_ai.xml"
+    },
+    {
+        "merged": "D:\\Application\\TalentHub-Mobile-main\\daemon\\8.0\\com.ch2ps075.talenthub.app-mergeDebugResources-43:\\layout\\activity_help_center.xml",
+        "source": "D:\\Application\\TalentHub-Mobile-main\\daemon\\8.0\\com.ch2ps075.talenthub.app-main-46:\\layout\\activity_help_center.xml"
+    },
+    {
+        "merged": "D:\\Application\\TalentHub-Mobile-main\\daemon\\8.0\\com.ch2ps075.talenthub.app-mergeDebugResources-43:\\layout\\activity_language.xml",
+        "source": "D:\\Application\\TalentHub-Mobile-main\\daemon\\8.0\\com.ch2ps075.talenthub.app-main-46:\\layout\\activity_language.xml"
+    },
+    {
+        "merged": "D:\\Application\\TalentHub-Mobile-main\\daemon\\8.0\\com.ch2ps075.talenthub.app-mergeDebugResources-43:\\layout\\activity_register_talent.xml",
+        "source": "D:\\Application\\TalentHub-Mobile-main\\daemon\\8.0\\com.ch2ps075.talenthub.app-main-46:\\layout\\activity_register_talent.xml"
+    },
+    {
+        "merged": "D:\\Application\\TalentHub-Mobile-main\\daemon\\8.0\\com.ch2ps075.talenthub.app-mergeDebugResources-43:\\layout\\activity_register.xml",
+        "source": "D:\\Application\\TalentHub-Mobile-main\\daemon\\8.0\\com.ch2ps075.talenthub.app-main-46:\\layout\\activity_register.xml"
+    },
+    {
+        "merged": "D:\\Application\\TalentHub-Mobile-main\\daemon\\8.0\\com.ch2ps075.talenthub.app-mergeDebugResources-43:\\layout\\fragment_search.xml",
+        "source": "D:\\Application\\TalentHub-Mobile-main\\daemon\\8.0\\com.ch2ps075.talenthub.app-main-46:\\layout\\fragment_search.xml"
+    },
+    {
+        "merged": "D:\\Application\\TalentHub-Mobile-main\\daemon\\8.0\\com.ch2ps075.talenthub.app-mergeDebugResources-43:\\layout\\activity_category.xml",
+        "source": "D:\\Application\\TalentHub-Mobile-main\\daemon\\8.0\\com.ch2ps075.talenthub.app-main-46:\\layout\\activity_category.xml"
+    },
+    {
+        "merged": "D:\\Application\\TalentHub-Mobile-main\\daemon\\8.0\\com.ch2ps075.talenthub.app-mergeDebugResources-43:\\layout\\activity_main.xml",
+        "source": "D:\\Application\\TalentHub-Mobile-main\\daemon\\8.0\\com.ch2ps075.talenthub.app-main-46:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "D:\\Application\\TalentHub-Mobile-main\\daemon\\8.0\\com.ch2ps075.talenthub.app-mergeDebugResources-43:\\layout\\activity_information.xml",
+        "source": "D:\\Application\\TalentHub-Mobile-main\\daemon\\8.0\\com.ch2ps075.talenthub.app-main-46:\\layout\\activity_information.xml"
+    },
+    {
+        "merged": "D:\\Application\\TalentHub-Mobile-main\\daemon\\8.0\\com.ch2ps075.talenthub.app-mergeDebugResources-43:\\layout\\activity_my_profile.xml",
+        "source": "D:\\Application\\TalentHub-Mobile-main\\daemon\\8.0\\com.ch2ps075.talenthub.app-main-46:\\layout\\activity_my_profile.xml"
+    },
+    {
+        "merged": "D:\\Application\\TalentHub-Mobile-main\\daemon\\8.0\\com.ch2ps075.talenthub.app-mergeDebugResources-43:\\layout\\item_row_question.xml",
+        "source": "D:\\Application\\TalentHub-Mobile-main\\daemon\\8.0\\com.ch2ps075.talenthub.app-main-46:\\layout\\item_row_question.xml"
+    },
+    {
+        "merged": "D:\\Application\\TalentHub-Mobile-main\\daemon\\8.0\\com.ch2ps075.talenthub.app-mergeDebugResources-43:\\layout\\activity_login.xml",
+        "source": "D:\\Application\\TalentHub-Mobile-main\\daemon\\8.0\\com.ch2ps075.talenthub.app-main-46:\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "D:\\Application\\TalentHub-Mobile-main\\daemon\\8.0\\com.ch2ps075.talenthub.app-mergeDebugResources-43:\\layout\\item_row_talent.xml",
+        "source": "D:\\Application\\TalentHub-Mobile-main\\daemon\\8.0\\com.ch2ps075.talenthub.app-main-46:\\layout\\item_row_talent.xml"
+    },
+    {
+        "merged": "D:\\Application\\TalentHub-Mobile-main\\daemon\\8.0\\com.ch2ps075.talenthub.app-mergeDebugResources-43:\\layout\\activity_settings.xml",
+        "source": "D:\\Application\\TalentHub-Mobile-main\\daemon\\8.0\\com.ch2ps075.talenthub.app-main-46:\\layout\\activity_settings.xml"
+    },
+    {
+        "merged": "com.ch2ps075.talenthub.app-mergeDebugResources-43:/layout/activity_register_talent.xml",
+        "source": "com.ch2ps075.talenthub.app-main-46:/layout/activity_register_talent.xml"
+    },
+    {
+        "merged": "D:\\Application\\TalentHub-Mobile-main\\daemon\\8.0\\com.ch2ps075.talenthub.app-mergeDebugResources-43:\\layout\\fragment_profile.xml",
+        "source": "D:\\Application\\TalentHub-Mobile-main\\daemon\\8.0\\com.ch2ps075.talenthub.app-main-46:\\layout\\fragment_profile.xml"
+    },
+    {
+        "merged": "D:\\Application\\TalentHub-Mobile-main\\daemon\\8.0\\com.ch2ps075.talenthub.app-mergeDebugResources-43:\\layout\\activity_terms_of_services.xml",
+        "source": "D:\\Application\\TalentHub-Mobile-main\\daemon\\8.0\\com.ch2ps075.talenthub.app-main-46:\\layout\\activity_terms_of_services.xml"
+    },
+    {
+        "merged": "D:\\Application\\TalentHub-Mobile-main\\daemon\\8.0\\com.ch2ps075.talenthub.app-mergeDebugResources-43:\\layout\\activity_privacy_policy.xml",
+        "source": "D:\\Application\\TalentHub-Mobile-main\\daemon\\8.0\\com.ch2ps075.talenthub.app-main-46:\\layout\\activity_privacy_policy.xml"
+    }
+]

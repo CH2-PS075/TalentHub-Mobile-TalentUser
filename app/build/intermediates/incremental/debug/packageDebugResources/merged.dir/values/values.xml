@@ -1,0 +1,263 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="answer_data">
+        <item>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry\'s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.</item>
+        <item>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry\'s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.</item>
+        <item>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry\'s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.</item>
+        <item>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry\'s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.</item>
+        <item>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry\'s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.</item>
+    </string-array>
+    <array name="com_google_android_gms_fonts_certs">
+        <item>@array/com_google_android_gms_fonts_certs_dev</item>
+        <item>@array/com_google_android_gms_fonts_certs_prod</item>
+    </array>
+    <string-array name="com_google_android_gms_fonts_certs_dev">
+        <item>
+            MIIEqDCCA5CgAwIBAgIJANWFuGx90071MA0GCSqGSIb3DQEBBAUAMIGUMQswCQYDVQQGEwJVUzETMBEGA1UECBMKQ2FsaWZvcm5pYTEWMBQGA1UEBxMNTW91bnRhaW4gVmlldzEQMA4GA1UEChMHQW5kcm9pZDEQMA4GA1UECxMHQW5kcm9pZDEQMA4GA1UEAxMHQW5kcm9pZDEiMCAGCSqGSIb3DQEJARYTYW5kcm9pZEBhbmRyb2lkLmNvbTAeFw0wODA0MTUyMzM2NTZaFw0zNTA5MDEyMzM2NTZaMIGUMQswCQYDVQQGEwJVUzETMBEGA1UECBMKQ2FsaWZvcm5pYTEWMBQGA1UEBxMNTW91bnRhaW4gVmlldzEQMA4GA1UEChMHQW5kcm9pZDEQMA4GA1UECxMHQW5kcm9pZDEQMA4GA1UEAxMHQW5kcm9pZDEiMCAGCSqGSIb3DQEJARYTYW5kcm9pZEBhbmRyb2lkLmNvbTCCASAwDQYJKoZIhvcNAQEBBQADggENADCCAQgCggEBANbOLggKv+IxTdGNs8/TGFy0PTP6DHThvbbR24kT9ixcOd9W+EaBPWW+wPPKQmsHxajtWjmQwWfna8mZuSeJS48LIgAZlKkpFeVyxW0qMBujb8X8ETrWy550NaFtI6t9+u7hZeTfHwqNvacKhp1RbE6dBRGWynwMVX8XW8N1+UjFaq6GCJukT4qmpN2afb8sCjUigq0GuMwYXrFVee74bQgLHWGJwPmvmLHC69EH6kWr22ijx4OKXlSIx2xT1AsSHee70w5iDBiK4aph27yH3TxkXy9V89TDdexAcKk/cVHYNnDBapcavl7y0RiQ4biu8ymM8Ga/nmzhRKya6G0cGw8CAQOjgfwwgfkwHQYDVR0OBBYEFI0cxb6VTEM8YYY6FbBMvAPyT+CyMIHJBgNVHSMEgcEwgb6AFI0cxb6VTEM8YYY6FbBMvAPyT+CyoYGapIGXMIGUMQswCQYDVQQGEwJVUzETMBEGA1UECBMKQ2FsaWZvcm5pYTEWMBQGA1UEBxMNTW91bnRhaW4gVmlldzEQMA4GA1UEChMHQW5kcm9pZDEQMA4GA1UECxMHQW5kcm9pZDEQMA4GA1UEAxMHQW5kcm9pZDEiMCAGCSqGSIb3DQEJARYTYW5kcm9pZEBhbmRyb2lkLmNvbYIJANWFuGx90071MAwGA1UdEwQFMAMBAf8wDQYJKoZIhvcNAQEEBQADggEBABnTDPEF+3iSP0wNfdIjIz1AlnrPzgAIHVvXxunW7SBrDhEglQZBbKJEk5kT0mtKoOD1JMrSu1xuTKEBahWRbqHsXclaXjoBADb0kkjVEJu/Lh5hgYZnOjvlba8Ld7HCKePCVePoTJBdI4fvugnL8TsgK05aIskyY0hKI9L8KfqfGTl1lzOv2KoWD0KWwtAWPoGChZxmQ+nBli+gwYMzM1vAkP+aayLe0a1EQimlOalO762r0GXO0ks+UeXde2Z4e+8S/pf7pITEI/tP+MxJTALw9QUWEv9lKTk+jkbqxbsh8nfBUapfKqYn0eidpwq2AzVp3juYl7//fKnaPhJD9gs=
+        </item>
+    </string-array>
+    <string-array name="com_google_android_gms_fonts_certs_prod">
+        <item>
+            MIIEQzCCAyugAwIBAgIJAMLgh0ZkSjCNMA0GCSqGSIb3DQEBBAUAMHQxCzAJBgNVBAYTAlVTMRMwEQYDVQQIEwpDYWxpZm9ybmlhMRYwFAYDVQQHEw1Nb3VudGFpbiBWaWV3MRQwEgYDVQQKEwtHb29nbGUgSW5jLjEQMA4GA1UECxMHQW5kcm9pZDEQMA4GA1UEAxMHQW5kcm9pZDAeFw0wODA4MjEyMzEzMzRaFw0zNjAxMDcyMzEzMzRaMHQxCzAJBgNVBAYTAlVTMRMwEQYDVQQIEwpDYWxpZm9ybmlhMRYwFAYDVQQHEw1Nb3VudGFpbiBWaWV3MRQwEgYDVQQKEwtHb29nbGUgSW5jLjEQMA4GA1UECxMHQW5kcm9pZDEQMA4GA1UEAxMHQW5kcm9pZDCCASAwDQYJKoZIhvcNAQEBBQADggENADCCAQgCggEBAKtWLgDYO6IIrgqWbxJOKdoR8qtW0I9Y4sypEwPpt1TTcvZApxsdyxMJZ2JORland2qSGT2y5b+3JKkedxiLDmpHpDsz2WCbdxgxRczfey5YZnTJ4VZbH0xqWVW/8lGmPav5xVwnIiJS6HXk+BVKZF+JcWjAsb/GEuq/eFdpuzSqeYTcfi6idkyugwfYwXFU1+5fZKUaRKYCwkkFQVfcAs1fXA5V+++FGfvjJ/CxURaSxaBvGdGDhfXE28LWuT9ozCl5xw4Yq5OGazvV24mZVSoOO0yZ31j7kYvtwYK6NeADwbSxDdJEqO4k//0zOHKrUiGYXtqw/A0LFFtqoZKFjnkCAQOjgdkwgdYwHQYDVR0OBBYEFMd9jMIhF1Ylmn/Tgt9r45jk14alMIGmBgNVHSMEgZ4wgZuAFMd9jMIhF1Ylmn/Tgt9r45jk14aloXikdjB0MQswCQYDVQQGEwJVUzETMBEGA1UECBMKQ2FsaWZvcm5pYTEWMBQGA1UEBxMNTW91bnRhaW4gVmlldzEUMBIGA1UEChMLR29vZ2xlIEluYy4xEDAOBgNVBAsTB0FuZHJvaWQxEDAOBgNVBAMTB0FuZHJvaWSCCQDC4IdGZEowjTAMBgNVHRMEBTADAQH/MA0GCSqGSIb3DQEBBAUAA4IBAQBt0lLO74UwLDYKqs6Tm8/yzKkEu116FmH4rkaymUIE0P9KaMftGlMexFlaYjzmB2OxZyl6euNXEsQH8gjwyxCUKRJNexBiGcCEyj6z+a1fuHHvkiaai+KL8W1EyNmgjmyy8AW7P+LLlkR+ho5zEHatRbM/YAnqGcFh5iZBqpknHf1SKMXFh4dd239FJ1jWYfbMDMy3NS5CTMQ2XFI1MvcyUTdZPErjQfTbQe3aDQsQcafEQPD+nqActifKZ0Np0IS9L9kR/wbNvyz6ENwPiTrjV2KRkEjH78ZMcUQXg0L3BYHJ3lc69Vs5Ddf9uUGGMYldX3WfMBEmh/9iFBDAaTCK
+        </item>
+    </string-array>
+    <array name="preloaded_fonts" translatable="false">
+        <item>@font/montserrat</item>
+        <item>@font/montserrat_bold</item>
+        <item>@font/montserrat_light</item>
+        <item>@font/montserrat_medium</item>
+        <item>@font/montserrat_semibold</item>
+    </array>
+    <string-array name="question_data">
+        <item>Bagaimana saya bisa mendaftar sebagai Talent di TalentHub?</item>
+        <item>Bagaimana saya bisa mendaftar sebagai Talent di TalentHub?</item>
+        <item>Bagaimana saya bisa mendaftar sebagai Talent di TalentHub?</item>
+        <item>Bagaimana saya bisa mendaftar sebagai Talent di TalentHub?</item>
+        <item>Bagaimana saya bisa mendaftar sebagai Talent di TalentHub?</item>
+    </string-array>
+    <color name="black">#FF000000</color>
+    <color name="colorDark">#1F2933</color>
+    <color name="colorGray">#5F6368</color>
+    <color name="colorLightGray">#F6F6F7</color>
+    <color name="colorPrimary">#27448E</color>
+    <color name="colorSecondary">#FF9F46</color>
+    <color name="ic_launcher_background">#FFFFFF</color>
+    <color name="white">#FFFFFFFF</color>
+    <string name="account_name" translatable="false">Hi, %1$s</string>
+    <string name="account_name_guest" translatable="false">Hi, TALENTNITY!</string>
+    <string name="action_ai" translatable="false">AI</string>
+    <string name="action_favorite" translatable="false">Favorite</string>
+    <string name="action_home" translatable="false">Home</string>
+    <string name="action_profile" translatable="false">Profile</string>
+    <string name="action_search" translatable="false">Search</string>
+    <string name="address_hint">Address</string>
+    <string name="app_name">TalentHub</string>
+    <string name="avatar_profile" translatable="false">Avatar Profile</string>
+    <string name="back_title">Back</string>
+    <string name="banner_home" translatable="false">Banner</string>
+    <string name="category_hint">Category</string>
+    <string name="cd_backto_settings" translatable="false">Back to Settings</string>
+    <string name="cd_english_selected" translatable="false">Selected English</string>
+    <string name="cd_expand_hc" translatable="false">Expand the question</string>
+    <string name="cd_help_center" translatable="false">Help Center icon</string>
+    <string name="cd_indonesia_selected" translatable="false">Selected Bahasa Indonesia</string>
+    <string name="cd_language" translatable="false">Language icon</string>
+    <string name="cd_pp" translatable="false">Privacy Policy icon</string>
+    <string name="cd_settings" translatable="false">Settings icon</string>
+    <string name="cd_settings_information">To Information</string>
+    <string name="cd_settings_my_profile">To My Profile</string>
+    <string name="cd_to_hc" translatable="false">To Help Center</string>
+    <string name="cd_to_language" translatable="false">To Language</string>
+    <string name="cd_to_pp" translatable="false">To Privacy Policy</string>
+    <string name="cd_to_settings" translatable="false">To Settings</string>
+    <string name="cd_to_tos" translatable="false">To Terms of Services</string>
+    <string name="cd_tos" translatable="false">Terms of Services icon</string>
+    <string name="comedian_category">Comedian</string>
+    <string name="comedian_cd" translatable="false">Comedian</string>
+    <string name="contact_hint">Contact</string>
+    <string name="content_name_tab_text" translatable="false">This is section of %1$s</string>
+    <string name="content_tab_text" translatable="false">This is tab %1$d</string>
+    <string name="continue_title">Continue</string>
+    <string name="display_talent_size">Displaying %1$s talents</string>
+    <string name="email_hint" translatable="false">Email</string>
+    <string name="email_profile" translatable="false">%1$s</string>
+    <string name="empty_favorite">No Favorites</string>
+    <string name="english_option" translatable="false">English</string>
+    <string name="error_empty_field">Can not be empty</string>
+    <string name="error_short_password">Password must not be less than 8 characters</string>
+    <string name="failed_login_message">Sorry, incorrect username or password</string>
+    <string name="failed_register_message">Sorry, registration failed. Email is already taken</string>
+    <string name="failed_title">Failed</string>
+    <string name="favorite_text">Favorite Talent</string>
+    <string name="fullname_hint">Full Name</string>
+    <string name="guest_login_text" translatable="false"/>
+    <string name="hc_text">Help Center</string>
+    <string name="icon_bag" translatable="false">Icon of the TalentHub</string>
+    <string name="inaccessible_title">Inaccessible</string>
+    <string name="indonesia_option" translatable="false">Bahasa Indonesia</string>
+    <string name="invalid_email">The email format is invalid. Please enter a valid email address</string>
+    <string name="join_talent">Join Now</string>
+    <string name="language_text">Language</string>
+    <string name="login_conditions_text">I agree to TalentHub\'s Terms of Service &amp; Privacy Policy.</string>
+    <string name="login_subtitle_text">Login or register in just a few easy steps</string>
+    <string name="login_text">Login</string>
+    <string name="logout_confirm_text">Are you sure you want to logout?</string>
+    <string name="logout_text">Logout</string>
+    <string name="music_band_category">Music Band</string>
+    <string name="music_band_cd" translatable="false">Music Band</string>
+    <string name="name_profile" translatable="false">Hi, %1$s</string>
+    <string name="no_session_text">Login to access this feature</string>
+    <string name="password_hint">Password</string>
+    <string name="photographer_category">Photographer</string>
+    <string name="photographer_cd" translatable="false">Photographer</string>
+    <string name="picture_hint">Profile Image</string>
+    <string name="picture_text">Upload Image</string>
+    <string name="pp_text">Privacy Policy</string>
+    <string name="price_hint">Price</string>
+    <string name="quantity_hint">Quantity</string>
+    <string name="register_text">Register</string>
+    <string name="search_hint">Search talent…</string>
+    <string name="settings_information">Information</string>
+    <string name="settings_my_profile">My Profile</string>
+    <string name="settings_text">Settings</string>
+    <string name="signin_text">Already have an account? Log in</string>
+    <string name="signup_text">Don\'t have an account yet? Register</string>
+    <string name="singer_category">Singer</string>
+    <string name="singer_cd" translatable="false">Singer</string>
+    <string name="success_login_message">Welcome back! Login successful</string>
+    <string name="success_register_message">Congratulations! Registration successful</string>
+    <string name="success_title">Success</string>
+    <string name="tab_text_1" translatable="false">Home</string>
+    <string name="tab_text_2" translatable="false">Profile</string>
+    <string name="tab_text_3" translatable="false">Setting</string>
+    <string name="talentname_hint">Talent Name</string>
+    <string name="text_category">Category</string>
+    <string name="text_our_talent">Our Talent</string>
+    <string name="top_header_profile" translatable="false">Top Header</string>
+    <string name="tos_text">Terms of Services</string>
+    <string name="try_again_title">Try again</string>
+    <string name="username_hint">Username</string>
+    <string name="version_app">Version 1.0</string>
+    <string name="view_all_category">View All</string>
+    <string name="view_all_cd" translatable="false">View All</string>
+    <string name="welcome_conditions_text">You agree to the Terms of Service or Privacy Policy by logging in or registering.</string>
+    <string name="welcome_register_text">No account yet? Sign up first</string>
+    <string name="welcome_title_text">Welcome to TalentHub!</string>
+    <string name="welomce_subtitle_text">Apps that make your event more convenient. Ready to help you with your needs anytime, anywhere.</string>
+    <style name="Base.Theme.TalentHub" parent="Theme.Material3.DayNight.NoActionBar">
+        
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimary</item>
+        <item name="colorAccent">@color/colorSecondary</item>
+    </style>
+    <style name="BottomNavigationView" parent="Widget.Material3.BottomNavigationView">
+        <item name="android:background">@color/white</item>
+        <item name="labelVisibilityMode">labeled</item>
+        <item name="itemTextColor">@color/colorPrimary</item>
+        <item name="itemRippleColor">@color/colorPrimary</item>
+        <item name="itemIconTint">@color/colorPrimary</item>
+        <item name="itemIconSize">25dp</item>
+        <item name="itemTextAppearanceActive">?attr/textAppearanceLabelMedium</item>
+        <item name="itemTextAppearanceInactive">?attr/textAppearanceLabelSmall</item>
+    </style>
+    <style name="Button.Secondary" parent="Widget.Material3.Button.OutlinedButton">
+        <item name="strokeColor">@color/colorPrimary</item>
+    </style>
+    <style name="DialogAnimation">
+        <item name="android:windowEnterAnimation">@anim/slide_in_animation</item>
+        <item name="android:windowExitAnimation">@anim/slide_out_animation</item>
+    </style>
+    <style name="EditText" parent="Widget.AppCompat.EditText">
+        <item name="android:background">@drawable/shape_rectangle_rounded_gray</item>
+        <item name="android:padding">16dp</item>
+        <item name="android:textSize">12sp</item>
+        <item name="android:drawablePadding">20dp</item>
+        <item name="android:fontFamily">@font/montserrat</item>
+    </style>
+    <style name="EditText.Address">
+        <item name="android:drawableStart">@drawable/ic_home</item>
+        <item name="android:hint">@string/address_hint</item>
+        <item name="android:inputType">textPostalAddress</item>
+    </style>
+    <style name="EditText.Category">
+        <item name="android:drawableStart">@drawable/ic_round_qr_code_24</item>
+        <item name="android:hint">@string/category_hint</item>
+        <item name="android:inputType">textCapWords</item>
+    </style>
+    <style name="EditText.Contact">
+        <item name="android:drawableStart">@drawable/ic_contact</item>
+        <item name="android:hint">@string/contact_hint</item>
+        <item name="android:inputType">number</item>
+    </style>
+    <style name="EditText.Email">
+        <item name="android:drawableStart">@drawable/ic_outline_email_24</item>
+        <item name="android:hint">@string/email_hint</item>
+        <item name="android:inputType">textEmailAddress</item>
+    </style>
+    <style name="EditText.FullName">
+        <item name="android:drawableStart">@drawable/ic_profile</item>
+        <item name="android:hint">@string/fullname_hint</item>
+        <item name="android:inputType">textPersonName</item>
+    </style>
+    <style name="EditText.IdentityCard">
+        <item name="android:drawableStart">@drawable/ic_round_image_gray_24</item>
+        <item name="android:hint">@string/picture_hint</item>
+        <item name="android:inputType">textPersonName</item>
+    </style>
+    <style name="EditText.Password">
+        <item name="android:drawableStart">@drawable/ic_outline_lock_24</item>
+        <item name="android:hint">@string/password_hint</item>
+        <item name="android:inputType">textPassword</item>
+    </style>
+    <style name="EditText.Price">
+        <item name="android:drawableStart">@drawable/ic_outline_monetization_on_24</item>
+        <item name="android:hint">@string/price_hint</item>
+        <item name="android:inputType">number</item>
+    </style>
+    <style name="EditText.ProfileAddress">
+        <item name="android:drawableStart">@drawable/ic_home</item>
+    </style>
+    <style name="EditText.ProfileContact">
+        <item name="android:drawableStart">@drawable/ic_contact</item>
+    </style>
+    <style name="EditText.ProfileUsername">
+        <item name="android:drawableStart">@drawable/ic_profile</item>
+        <item name="android:radius">1dp</item>
+    </style>
+    <style name="EditText.Quantity">
+        <item name="android:drawableStart">@drawable/ic__numbers_24</item>
+        <item name="android:hint">@string/quantity_hint</item>
+        <item name="android:inputType">number</item>
+    </style>
+    <style name="EditText.TalentName">
+        <item name="android:drawableStart">@drawable/ic_profile</item>
+        <item name="android:hint">@string/talentname_hint</item>
+        <item name="android:inputType">textPersonName</item>
+    </style>
+    <style name="EditText.Username">
+        <item name="android:drawableStart">@drawable/ic_profile</item>
+        <item name="android:hint">@string/username_hint</item>
+        <item name="android:inputType">textPersonName</item>
+    </style>
+    <style name="TextView" parent="Widget.AppCompat.TextView">
+        <item name="android:fontFamily">@font/montserrat</item>
+    </style>
+    <style name="TextView.ExtraLarge" parent="Widget.AppCompat.TextView">
+        <item name="android:fontFamily">@font/montserrat_bold</item>
+        <item name="android:textSize">24sp</item>
+        <item name="android:textColor">@color/colorDark</item>
+    </style>
+    <style name="TextView.ExtraSmall" parent="Widget.AppCompat.TextView">
+        <item name="android:fontFamily">@font/montserrat</item>
+        <item name="android:textSize">12sp</item>
+        <item name="android:textColor">@color/colorDark</item>
+    </style>
+    <style name="TextView.Small" parent="Widget.AppCompat.TextView">
+        <item name="android:fontFamily">@font/montserrat</item>
+        <item name="android:textSize">14sp</item>
+        <item name="android:textColor">@color/colorDark</item>
+    </style>
+    <style name="Theme.TalentHub" parent="Base.Theme.TalentHub">
+        <item name="thumbColor">@color/colorSecondary</item>
+    </style>
+</resources>

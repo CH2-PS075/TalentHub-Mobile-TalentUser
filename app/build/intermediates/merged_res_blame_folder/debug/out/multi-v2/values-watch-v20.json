@@ -1,0 +1,20 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.ch2ps075.talenthub.app-mergeDebugResources-42:/values-watch-v20/values-watch-v20.xml",
+            "map": [
+                {
+                    "source": "D:\\Application\\TalentHub-Mobile-main\\caches\\transforms-3\\df8fd3ea305061ff6a0a98c05bafc5fb\\transformed\\appcompat-1.6.1\\res\\values-watch-v20\\values-watch-v20.xml",
+                    "from": {
+                        "startLines": "2,5,8",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "55,214,385",
+                        "endLines": "4,7,10",
+                        "endColumns": "12,12,12",
+                        "endOffsets": "209,380,553"
+                    }
+                }
+            ]
+        }
+    ]
+}

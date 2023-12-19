@@ -1,0 +1,152 @@
+<resources>
+    <string name="app_name">TalentHub</string>
+    <string name="icon_bag" translatable="false">Icon of the TalentHub</string>
+
+    <string name="action_home" translatable="false">Home</string>
+    <string name="action_search" translatable="false">Search</string>
+    <string name="action_ai" translatable="false">AI</string>
+    <string name="action_favorite" translatable="false">Favorite</string>
+    <string name="action_profile" translatable="false">Profile</string>
+
+    <!--Welcome Page-->
+    <string name="welomce_subtitle_text">Apps that make your event more convenient. Ready to help you with your needs anytime, anywhere.</string>
+    <string name="welcome_register_text">No account yet? Sign up first</string>
+    <string name="welcome_conditions_text">You agree to the Terms of Service or Privacy Policy by logging in or registering.</string>
+
+    <!--Login & Register Page-->
+    <string name="login_text">Login</string>
+    <string name="logout_text">Logout</string>
+    <string name="register_text">Register</string>
+    <string name="welcome_title_text">Welcome to TalentHub!</string>
+    <string name="login_subtitle_text">Login or register in just a few easy steps</string>
+    <string name="email_hint" translatable="false">Email</string>
+    <string name="invalid_email">The email format is invalid. Please enter a valid email address</string>
+
+    <string name="username_hint">Username</string>
+    <string name="fullname_hint">Full Name</string>
+    <string name="address_hint">Address</string>
+    <string name="category_hint">Category</string>
+    <string name="contact_hint">Contact</string>
+    <string name="password_hint">Password</string>
+
+    <string name="talentname_hint">Talent Name</string>
+    <string name="quantity_hint">Quantity</string>
+    <string name="price_hint">Price</string>
+    <string name="picture_hint">Profile Image</string>
+    <string name="picture_text">Upload Image</string>
+
+    <string name="login_conditions_text">I agree to TalentHub\'s Terms of Service &amp; Privacy Policy.</string>
+    <string name="signup_text">Don\'t have an account yet? Register</string>
+    <string name="signin_text">Already have an account? Log in</string>
+
+    <!--Home Page-->
+    <string name="banner_home" translatable="false">Banner</string>
+    <string name="account_name" translatable="false">Hi, %1$s</string>
+    <string name="account_name_guest" translatable="false">Hi, TALENTNITY!</string>
+    <string name="guest_login_text" translatable="false" />
+    <string name="join_talent">Join Now</string>
+    <string name="text_category">Category</string>
+    <string name="text_our_talent">Our Talent</string>
+
+    <!--Search Page-->
+    <string name="display_talent_size">Displaying %1$s talents</string>
+    <string name="search_hint">Search talent…</string>
+
+    <!--Favorite Page-->
+    <string name="favorite_text">Favorite Talent</string>
+    <string name="empty_favorite">No Favorites</string>
+
+    <!--Profile Page-->
+    <string name="top_header_profile" translatable="false">Top Header</string>
+    <string name="avatar_profile" translatable="false">Avatar Profile</string>
+    <string name="name_profile" translatable="false">Hi, %1$s</string>
+    <string name="email_profile" translatable="false">%1$s</string>
+
+    <string name="cd_help_center" translatable="false">Help Center icon</string>
+    <string name="hc_text">Help Center</string>
+    <string name="cd_to_hc" translatable="false">To Help Center</string>
+    <string name="cd_expand_hc" translatable="false">Expand the question</string>
+
+    <string name="cd_language" translatable="false">Language icon</string>
+    <string name="language_text">Language</string>
+    <string name="cd_to_language" translatable="false">To Language</string>
+
+    <string name="cd_tos" translatable="false">Terms of Services icon</string>
+    <string name="tos_text">Terms of Services</string>
+    <string name="cd_to_tos" translatable="false">To Terms of Services</string>
+
+    <string name="cd_pp" translatable="false">Privacy Policy icon</string>
+    <string name="pp_text">Privacy Policy</string>
+    <string name="cd_to_pp" translatable="false">To Privacy Policy</string>
+
+    <string name="cd_settings" translatable="false">Settings icon</string>
+    <string name="settings_text">Settings</string>
+    <string name="cd_to_settings" translatable="false">To Settings</string>
+    <string name="cd_backto_settings" translatable="false">Back to Settings</string>
+
+    <!--Category-->
+    <string name="singer_category">Singer</string>
+    <string name="singer_cd" translatable="false">Singer</string>
+    <string name="music_band_category">Music Band</string>
+    <string name="music_band_cd" translatable="false">Music Band</string>
+    <string name="comedian_category">Comedian</string>
+    <string name="comedian_cd" translatable="false">Comedian</string>
+    <string name="photographer_category">Photographer</string>
+    <string name="photographer_cd" translatable="false">Photographer</string>
+    <string name="view_all_category">View All</string>
+    <string name="view_all_cd" translatable="false">View All</string>
+
+    <!--Error and success handling-->
+    <string name="error_empty_field">Can not be empty</string>
+    <string name="error_short_password">Password must not be less than 8 characters</string>
+    <string name="inaccessible_title">Inaccessible</string>
+    <string name="success_title">Success</string>
+    <string name="failed_title">Failed</string>
+    <string name="failed_login_message">Sorry, incorrect username or password</string>
+    <string name="failed_register_message">Sorry, registration failed. Email is already taken</string>
+    <string name="success_login_message">Welcome back! Login successful</string>
+    <string name="success_register_message">Congratulations! Registration successful</string>
+    <string name="continue_title">Continue</string>
+    <string name="back_title">Back</string>
+    <string name="try_again_title">Try again</string>
+    <string name="no_session_text">Login to access this feature</string>
+    <string name="logout_confirm_text">Are you sure you want to logout?</string>
+
+    <!--Help center-->
+    <string-array name="question_data">
+        <item>Bagaimana saya bisa mendaftar sebagai Talent di TalentHub?</item>
+        <item>Bagaimana saya bisa mendaftar sebagai Talent di TalentHub?</item>
+        <item>Bagaimana saya bisa mendaftar sebagai Talent di TalentHub?</item>
+        <item>Bagaimana saya bisa mendaftar sebagai Talent di TalentHub?</item>
+        <item>Bagaimana saya bisa mendaftar sebagai Talent di TalentHub?</item>
+    </string-array>
+
+    <string-array name="answer_data">
+        <item>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry\'s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.</item>
+        <item>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry\'s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.</item>
+        <item>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry\'s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.</item>
+        <item>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry\'s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.</item>
+        <item>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry\'s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.</item>
+    </string-array>
+
+    <!--Language setting-->
+    <string name="english_option" translatable="false">English</string>
+    <string name="indonesia_option" translatable="false">Bahasa Indonesia</string>
+    <string name="cd_english_selected" translatable="false">Selected English</string>
+    <string name="cd_indonesia_selected" translatable="false">Selected Bahasa Indonesia</string>
+
+    <!--Category Tab Layout-->
+    <string name="tab_text_1" translatable="false">Home</string>
+    <string name="tab_text_2" translatable="false">Profile</string>
+    <string name="tab_text_3" translatable="false">Setting</string>
+    <string name="content_tab_text" translatable="false">This is tab %1$d</string>
+    <string name="content_name_tab_text" translatable="false">This is section of %1$s</string>
+
+    <!--Settings main-->
+    <string name="settings_my_profile">My Profile</string>
+    <string name="cd_settings_my_profile">To My Profile</string>
+    <string name="settings_information">Information</string>
+    <string name="cd_settings_information">To Information</string>
+    <string name="version_app">Version 1.0</string>
+
+</resources>

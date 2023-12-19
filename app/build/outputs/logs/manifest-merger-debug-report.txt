@@ -1,0 +1,443 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\Application\TalentHub-Mobile-rafi\app\src\main\AndroidManifest.xml:2:1-69:12
+INJECTED from D:\Application\TalentHub-Mobile-rafi\app\src\main\AndroidManifest.xml:2:1-69:12
+INJECTED from D:\Application\TalentHub-Mobile-rafi\app\src\main\AndroidManifest.xml:2:1-69:12
+INJECTED from D:\Application\TalentHub-Mobile-rafi\app\src\main\AndroidManifest.xml:2:1-69:12
+MERGED from [androidx.databinding:viewbinding:8.1.1] D:\Application\TalentHub-Mobile-main\caches\transforms-3\6f7b58fbbc4e7c800f5b383586cc93a6\transformed\viewbinding-8.1.1\AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.android.material:material:1.10.0] D:\Application\TalentHub-Mobile-main\caches\transforms-3\3856170f3063a2a5b6f1a15407858af4\transformed\material-1.10.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.github.bumptech.glide:okhttp3-integration:4.16.0] D:\Application\TalentHub-Mobile-main\caches\transforms-3\c00ca670f4efe5b5848e8d7a46e473ab\transformed\okhttp3-integration-4.16.0\AndroidManifest.xml:2:1-15:12
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] D:\Application\TalentHub-Mobile-main\caches\transforms-3\519fca0b05ee037953bb29461e0525ef\transformed\constraintlayout-2.1.4\AndroidManifest.xml:2:1-11:12
+MERGED from [com.airbnb.android:lottie:6.2.0] D:\Application\TalentHub-Mobile-main\caches\transforms-3\a6cd61185270b972d9a7bdb312ffe08a\transformed\lottie-6.2.0\AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.appcompat:appcompat-resources:1.6.1] D:\Application\TalentHub-Mobile-main\caches\transforms-3\8722e67971aac3b6b1a14cbaacc27b34\transformed\appcompat-resources-1.6.1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.appcompat:appcompat:1.6.1] D:\Application\TalentHub-Mobile-main\caches\transforms-3\df8fd3ea305061ff6a0a98c05bafc5fb\transformed\appcompat-1.6.1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] D:\Application\TalentHub-Mobile-main\caches\transforms-3\b1a5a31096d5e430a8978a22c3f66eb6\transformed\viewpager2-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.github.bumptech.glide:glide:4.16.0] D:\Application\TalentHub-Mobile-main\caches\transforms-3\1304ab28067ed72fc98216afa43b2193\transformed\glide-4.16.0\AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.fragment:fragment:1.6.2] D:\Application\TalentHub-Mobile-main\caches\transforms-3\e9e7054bbd287d50764376717c937d67\transformed\fragment-1.6.2\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.fragment:fragment-ktx:1.6.2] D:\Application\TalentHub-Mobile-main\caches\transforms-3\526f155e5199613cb6919d2ee776a53b\transformed\fragment-ktx-1.6.2\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.8.1] D:\Application\TalentHub-Mobile-main\caches\transforms-3\aab05dbf63a4fd308a354eb0a38fd74c\transformed\activity-1.8.1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity-ktx:1.8.1] D:\Application\TalentHub-Mobile-main\caches\transforms-3\f16a03715f0d33e96487ce77e03d612d\transformed\activity-ktx-1.8.1\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.emoji2:emoji2-views-helper:1.2.0] D:\Application\TalentHub-Mobile-main\caches\transforms-3\0178884701b751cbe412741691545e0a\transformed\emoji2-views-helper-1.2.0\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.emoji2:emoji2:1.2.0] D:\Application\TalentHub-Mobile-main\caches\transforms-3\2fa8c2015e4fa5568ecc1dd68dd2726b\transformed\emoji2-1.2.0\AndroidManifest.xml:17:1-35:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.6.2] D:\Application\TalentHub-Mobile-main\caches\transforms-3\3051f7ec365386d4a7663704520ed878\transformed\lifecycle-livedata-core-2.6.2\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate-ktx:1.2.1] D:\Application\TalentHub-Mobile-main\caches\transforms-3\f8888e5baf63c18d410155d99c795734\transformed\savedstate-ktx-1.2.1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate:1.2.1] D:\Application\TalentHub-Mobile-main\caches\transforms-3\8d61dd6760c791efbf387f5a38f86293\transformed\savedstate-1.2.1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.2] D:\Application\TalentHub-Mobile-main\caches\transforms-3\ed433810c27cfbaa0ca6acb13ca4ab7a\transformed\lifecycle-process-2.6.2\AndroidManifest.xml:17:1-35:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.6.2] D:\Application\TalentHub-Mobile-main\caches\transforms-3\100d513f1c9c1d40600c133a3fad05e3\transformed\lifecycle-viewmodel-ktx-2.6.2\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] D:\Application\TalentHub-Mobile-main\caches\transforms-3\e2654209b680be85046791cb7d959fb9\transformed\dynamicanimation-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] D:\Application\TalentHub-Mobile-main\caches\transforms-3\b4ba933096bd076ff8df8fd3f41abbf9\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] D:\Application\TalentHub-Mobile-main\caches\transforms-3\16d9b90f96538192dbfe4e146ca56dd7\transformed\loader-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.6.2] D:\Application\TalentHub-Mobile-main\caches\transforms-3\66ea1bcdb1de842fa6b02d467e1eb627\transformed\lifecycle-livedata-2.6.2\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.6.2] D:\Application\TalentHub-Mobile-main\caches\transforms-3\7a631078d5199c3b5fd373e92a7c52a1\transformed\lifecycle-viewmodel-2.6.2\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.6.2] D:\Application\TalentHub-Mobile-main\caches\transforms-3\5d7851e05450cd87b9a811047ec71005\transformed\lifecycle-livedata-core-ktx-2.6.2\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.6.2] D:\Application\TalentHub-Mobile-main\caches\transforms-3\f5740d37f7d173a9667edbd9dadd30ce\transformed\lifecycle-viewmodel-savedstate-2.6.2\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core-ktx:1.12.0] D:\Application\TalentHub-Mobile-main\caches\transforms-3\1db9b8991ada8bd443d6f0dc80269ebc\transformed\core-ktx-1.12.0\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] D:\Application\TalentHub-Mobile-main\caches\transforms-3\6cef844170682b7979df42aaa53c345c\transformed\drawerlayout-1.1.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] D:\Application\TalentHub-Mobile-main\caches\transforms-3\24cc4ea3a34f635473b150367ad91543\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.transition:transition:1.2.0] D:\Application\TalentHub-Mobile-main\caches\transforms-3\015d923f38a84ed83e552dd4719f5ae2\transformed\transition-1.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] D:\Application\TalentHub-Mobile-main\caches\transforms-3\833cc8c08d95ed612becc1035ab7d2fa\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] D:\Application\TalentHub-Mobile-main\caches\transforms-3\5cd346e64f64a720fb027d239e8fbea3\transformed\vectordrawable-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] D:\Application\TalentHub-Mobile-main\caches\transforms-3\f972288289285c123fa42005e175baa0\transformed\recyclerview-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] D:\Application\TalentHub-Mobile-main\caches\transforms-3\384d4824a795c9fca226c743ef91c124\transformed\viewpager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.1.0] D:\Application\TalentHub-Mobile-main\caches\transforms-3\602ebf3fd01fdd3605680b14ddf7e44f\transformed\customview-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core:1.12.0] D:\Application\TalentHub-Mobile-main\caches\transforms-3\d824cf6e8ea15ac6a513e7f0a02667ee\transformed\core-1.12.0\AndroidManifest.xml:17:1-30:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.6.2] D:\Application\TalentHub-Mobile-main\caches\transforms-3\9be85c9f8d1768a33513c20d861cccb6\transformed\lifecycle-runtime-2.6.2\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-ktx:2.6.2] D:\Application\TalentHub-Mobile-main\caches\transforms-3\be3b3f12e582b7f9462e8830b8cfd6a2\transformed\lifecycle-livedata-ktx-2.6.2\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.6.2] D:\Application\TalentHub-Mobile-main\caches\transforms-3\c3c7e7885f1c5a014cdb72671c76d6e5\transformed\lifecycle-runtime-ktx-2.6.2\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.datastore:datastore-preferences:1.0.0] D:\Application\TalentHub-Mobile-main\caches\transforms-3\16e17928568b115978215bcbc3a49786\transformed\datastore-preferences-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.datastore:datastore:1.0.0] D:\Application\TalentHub-Mobile-main\caches\transforms-3\525508dd1264101c4616c221d41e29a5\transformed\datastore-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.github.f0ris.sweetalert:library:1.6.2] D:\Application\TalentHub-Mobile-main\caches\transforms-3\1a25494628f95b7ca02a7c10c32c086c\transformed\library-1.6.2\AndroidManifest.xml:2:1-13:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] D:\Application\TalentHub-Mobile-main\caches\transforms-3\027415f0993a6f71a3a341c0b5bbcc9e\transformed\cursoradapter-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cardview:cardview:1.0.0] D:\Application\TalentHub-Mobile-main\caches\transforms-3\1d4aeef5f2ef8a0d56b206b49a66c121\transformed\cardview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] D:\Application\TalentHub-Mobile-main\caches\transforms-3\b1d1d5334cc6b60a8512ef76229f7b57\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:17:1-27:12
+MERGED from [com.github.bumptech.glide:gifdecoder:4.16.0] D:\Application\TalentHub-Mobile-main\caches\transforms-3\958346eb869f3257d7a9f911c8b00e03\transformed\gifdecoder-4.16.0\AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.exifinterface:exifinterface:1.3.6] D:\Application\TalentHub-Mobile-main\caches\transforms-3\6c4c7d75058e90e1bb36bfe194c781b2\transformed\exifinterface-1.3.6\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] D:\Application\TalentHub-Mobile-main\caches\transforms-3\03fd82e387328772f15e61e8df347a45\transformed\profileinstaller-1.3.0\AndroidManifest.xml:17:1-55:12
+MERGED from [androidx.startup:startup-runtime:1.1.1] D:\Application\TalentHub-Mobile-main\caches\transforms-3\c637a138853157efda41ecf20627cd1d\transformed\startup-runtime-1.1.1\AndroidManifest.xml:17:1-33:12
+MERGED from [androidx.tracing:tracing:1.0.0] D:\Application\TalentHub-Mobile-main\caches\transforms-3\a4bd5d50fab0524e005007eed02bac78\transformed\tracing-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] D:\Application\TalentHub-Mobile-main\caches\transforms-3\53ccecdf79124a5cdd1f9e0b429821af\transformed\interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.2.0] D:\Application\TalentHub-Mobile-main\caches\transforms-3\7b68e146fbca8691b2abed60642e0034\transformed\core-runtime-2.2.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] D:\Application\TalentHub-Mobile-main\caches\transforms-3\e91bff57630575321eba9dd3b6a0a899\transformed\documentfile-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] D:\Application\TalentHub-Mobile-main\caches\transforms-3\ce372983662a8dca2d6fe85e01cb8728\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] D:\Application\TalentHub-Mobile-main\caches\transforms-3\640e1414018eadadf09f58e2f43b1e1d\transformed\print-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.annotation:annotation-experimental:1.3.0] D:\Application\TalentHub-Mobile-main\caches\transforms-3\bf208cfaf7e9d5526d162101d3649843\transformed\annotation-experimental-1.3.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.pnikosis:materialish-progress:1.7] D:\Application\TalentHub-Mobile-main\caches\transforms-3\f479301455410c879893275060ce1b26\transformed\materialish-progress-1.7\AndroidManifest.xml:2:1-13:12
+	package
+		INJECTED from D:\Application\TalentHub-Mobile-rafi\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from D:\Application\TalentHub-Mobile-rafi\app\src\main\AndroidManifest.xml
+	xmlns:tools
+		ADDED from D:\Application\TalentHub-Mobile-rafi\app\src\main\AndroidManifest.xml:3:5-51
+	android:versionCode
+		INJECTED from D:\Application\TalentHub-Mobile-rafi\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\Application\TalentHub-Mobile-rafi\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from D:\Application\TalentHub-Mobile-rafi\app\src\main\AndroidManifest.xml:5:5-67
+	android:name
+		ADDED from D:\Application\TalentHub-Mobile-rafi\app\src\main\AndroidManifest.xml:5:22-64
+application
+ADDED from D:\Application\TalentHub-Mobile-rafi\app\src\main\AndroidManifest.xml:7:5-67:19
+INJECTED from D:\Application\TalentHub-Mobile-rafi\app\src\main\AndroidManifest.xml:7:5-67:19
+MERGED from [com.google.android.material:material:1.10.0] D:\Application\TalentHub-Mobile-main\caches\transforms-3\3856170f3063a2a5b6f1a15407858af4\transformed\material-1.10.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.10.0] D:\Application\TalentHub-Mobile-main\caches\transforms-3\3856170f3063a2a5b6f1a15407858af4\transformed\material-1.10.0\AndroidManifest.xml:22:5-20
+MERGED from [com.github.bumptech.glide:okhttp3-integration:4.16.0] D:\Application\TalentHub-Mobile-main\caches\transforms-3\c00ca670f4efe5b5848e8d7a46e473ab\transformed\okhttp3-integration-4.16.0\AndroidManifest.xml:9:5-13:19
+MERGED from [com.github.bumptech.glide:okhttp3-integration:4.16.0] D:\Application\TalentHub-Mobile-main\caches\transforms-3\c00ca670f4efe5b5848e8d7a46e473ab\transformed\okhttp3-integration-4.16.0\AndroidManifest.xml:9:5-13:19
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] D:\Application\TalentHub-Mobile-main\caches\transforms-3\519fca0b05ee037953bb29461e0525ef\transformed\constraintlayout-2.1.4\AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] D:\Application\TalentHub-Mobile-main\caches\transforms-3\519fca0b05ee037953bb29461e0525ef\transformed\constraintlayout-2.1.4\AndroidManifest.xml:9:5-20
+MERGED from [com.airbnb.android:lottie:6.2.0] D:\Application\TalentHub-Mobile-main\caches\transforms-3\a6cd61185270b972d9a7bdb312ffe08a\transformed\lottie-6.2.0\AndroidManifest.xml:7:5-20
+MERGED from [com.airbnb.android:lottie:6.2.0] D:\Application\TalentHub-Mobile-main\caches\transforms-3\a6cd61185270b972d9a7bdb312ffe08a\transformed\lottie-6.2.0\AndroidManifest.xml:7:5-20
+MERGED from [androidx.emoji2:emoji2:1.2.0] D:\Application\TalentHub-Mobile-main\caches\transforms-3\2fa8c2015e4fa5568ecc1dd68dd2726b\transformed\emoji2-1.2.0\AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.emoji2:emoji2:1.2.0] D:\Application\TalentHub-Mobile-main\caches\transforms-3\2fa8c2015e4fa5568ecc1dd68dd2726b\transformed\emoji2-1.2.0\AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.2] D:\Application\TalentHub-Mobile-main\caches\transforms-3\ed433810c27cfbaa0ca6acb13ca4ab7a\transformed\lifecycle-process-2.6.2\AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.2] D:\Application\TalentHub-Mobile-main\caches\transforms-3\ed433810c27cfbaa0ca6acb13ca4ab7a\transformed\lifecycle-process-2.6.2\AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.core:core:1.12.0] D:\Application\TalentHub-Mobile-main\caches\transforms-3\d824cf6e8ea15ac6a513e7f0a02667ee\transformed\core-1.12.0\AndroidManifest.xml:28:5-89
+MERGED from [androidx.core:core:1.12.0] D:\Application\TalentHub-Mobile-main\caches\transforms-3\d824cf6e8ea15ac6a513e7f0a02667ee\transformed\core-1.12.0\AndroidManifest.xml:28:5-89
+MERGED from [com.github.f0ris.sweetalert:library:1.6.2] D:\Application\TalentHub-Mobile-main\caches\transforms-3\1a25494628f95b7ca02a7c10c32c086c\transformed\library-1.6.2\AndroidManifest.xml:11:5-20
+MERGED from [com.github.f0ris.sweetalert:library:1.6.2] D:\Application\TalentHub-Mobile-main\caches\transforms-3\1a25494628f95b7ca02a7c10c32c086c\transformed\library-1.6.2\AndroidManifest.xml:11:5-20
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] D:\Application\TalentHub-Mobile-main\caches\transforms-3\b1d1d5334cc6b60a8512ef76229f7b57\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] D:\Application\TalentHub-Mobile-main\caches\transforms-3\b1d1d5334cc6b60a8512ef76229f7b57\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] D:\Application\TalentHub-Mobile-main\caches\transforms-3\03fd82e387328772f15e61e8df347a45\transformed\profileinstaller-1.3.0\AndroidManifest.xml:23:5-53:19
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] D:\Application\TalentHub-Mobile-main\caches\transforms-3\03fd82e387328772f15e61e8df347a45\transformed\profileinstaller-1.3.0\AndroidManifest.xml:23:5-53:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] D:\Application\TalentHub-Mobile-main\caches\transforms-3\c637a138853157efda41ecf20627cd1d\transformed\startup-runtime-1.1.1\AndroidManifest.xml:25:5-31:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] D:\Application\TalentHub-Mobile-main\caches\transforms-3\c637a138853157efda41ecf20627cd1d\transformed\startup-runtime-1.1.1\AndroidManifest.xml:25:5-31:19
+MERGED from [com.pnikosis:materialish-progress:1.7] D:\Application\TalentHub-Mobile-main\caches\transforms-3\f479301455410c879893275060ce1b26\transformed\materialish-progress-1.7\AndroidManifest.xml:11:5-20
+MERGED from [com.pnikosis:materialish-progress:1.7] D:\Application\TalentHub-Mobile-main\caches\transforms-3\f479301455410c879893275060ce1b26\transformed\materialish-progress-1.7\AndroidManifest.xml:11:5-20
+	android:extractNativeLibs
+		INJECTED from D:\Application\TalentHub-Mobile-rafi\app\src\main\AndroidManifest.xml
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.12.0] D:\Application\TalentHub-Mobile-main\caches\transforms-3\d824cf6e8ea15ac6a513e7f0a02667ee\transformed\core-1.12.0\AndroidManifest.xml:28:18-86
+	android:supportsRtl
+		ADDED from D:\Application\TalentHub-Mobile-rafi\app\src\main\AndroidManifest.xml:14:9-35
+	android:label
+		ADDED from D:\Application\TalentHub-Mobile-rafi\app\src\main\AndroidManifest.xml:12:9-41
+	android:fullBackupContent
+		ADDED from D:\Application\TalentHub-Mobile-rafi\app\src\main\AndroidManifest.xml:10:9-54
+	android:roundIcon
+		ADDED from D:\Application\TalentHub-Mobile-rafi\app\src\main\AndroidManifest.xml:13:9-54
+	tools:targetApi
+		ADDED from D:\Application\TalentHub-Mobile-rafi\app\src\main\AndroidManifest.xml:16:9-29
+	android:icon
+		ADDED from D:\Application\TalentHub-Mobile-rafi\app\src\main\AndroidManifest.xml:11:9-43
+	android:allowBackup
+		ADDED from D:\Application\TalentHub-Mobile-rafi\app\src\main\AndroidManifest.xml:8:9-35
+	android:theme
+		ADDED from D:\Application\TalentHub-Mobile-rafi\app\src\main\AndroidManifest.xml:15:9-47
+	android:dataExtractionRules
+		ADDED from D:\Application\TalentHub-Mobile-rafi\app\src\main\AndroidManifest.xml:9:9-65
+activity#com.ch2ps075.talenthub.ui.profile.settings.InformationActivity
+ADDED from D:\Application\TalentHub-Mobile-rafi\app\src\main\AndroidManifest.xml:17:9-19:40
+	android:exported
+		ADDED from D:\Application\TalentHub-Mobile-rafi\app\src\main\AndroidManifest.xml:19:13-37
+	android:name
+		ADDED from D:\Application\TalentHub-Mobile-rafi\app\src\main\AndroidManifest.xml:18:13-68
+activity#com.ch2ps075.talenthub.ui.profile.settings.MyProfileActivity
+ADDED from D:\Application\TalentHub-Mobile-rafi\app\src\main\AndroidManifest.xml:20:9-22:40
+	android:exported
+		ADDED from D:\Application\TalentHub-Mobile-rafi\app\src\main\AndroidManifest.xml:22:13-37
+	android:name
+		ADDED from D:\Application\TalentHub-Mobile-rafi\app\src\main\AndroidManifest.xml:21:13-66
+activity#com.ch2ps075.talenthub.ui.category.CategoryActivity
+ADDED from D:\Application\TalentHub-Mobile-rafi\app\src\main\AndroidManifest.xml:23:9-25:40
+	android:exported
+		ADDED from D:\Application\TalentHub-Mobile-rafi\app\src\main\AndroidManifest.xml:25:13-37
+	android:name
+		ADDED from D:\Application\TalentHub-Mobile-rafi\app\src\main\AndroidManifest.xml:24:13-57
+activity#com.ch2ps075.talenthub.ui.profile.settings.SettingsActivity
+ADDED from D:\Application\TalentHub-Mobile-rafi\app\src\main\AndroidManifest.xml:26:9-28:40
+	android:exported
+		ADDED from D:\Application\TalentHub-Mobile-rafi\app\src\main\AndroidManifest.xml:28:13-37
+	android:name
+		ADDED from D:\Application\TalentHub-Mobile-rafi\app\src\main\AndroidManifest.xml:27:13-65
+activity#com.ch2ps075.talenthub.ui.profile.terms.TermsOfServicesActivity
+ADDED from D:\Application\TalentHub-Mobile-rafi\app\src\main\AndroidManifest.xml:29:9-31:40
+	android:exported
+		ADDED from D:\Application\TalentHub-Mobile-rafi\app\src\main\AndroidManifest.xml:31:13-37
+	android:name
+		ADDED from D:\Application\TalentHub-Mobile-rafi\app\src\main\AndroidManifest.xml:30:13-69
+activity#com.ch2ps075.talenthub.ui.profile.privacy.PrivacyPolicyActivity
+ADDED from D:\Application\TalentHub-Mobile-rafi\app\src\main\AndroidManifest.xml:32:9-34:40
+	android:exported
+		ADDED from D:\Application\TalentHub-Mobile-rafi\app\src\main\AndroidManifest.xml:34:13-37
+	android:name
+		ADDED from D:\Application\TalentHub-Mobile-rafi\app\src\main\AndroidManifest.xml:33:13-69
+activity#com.ch2ps075.talenthub.ui.profile.language.LanguageActivity
+ADDED from D:\Application\TalentHub-Mobile-rafi\app\src\main\AndroidManifest.xml:35:9-37:40
+	android:exported
+		ADDED from D:\Application\TalentHub-Mobile-rafi\app\src\main\AndroidManifest.xml:37:13-37
+	android:name
+		ADDED from D:\Application\TalentHub-Mobile-rafi\app\src\main\AndroidManifest.xml:36:13-65
+activity#com.ch2ps075.talenthub.ui.profile.helpcenter.HelpCenterActivity
+ADDED from D:\Application\TalentHub-Mobile-rafi\app\src\main\AndroidManifest.xml:38:9-40:40
+	android:exported
+		ADDED from D:\Application\TalentHub-Mobile-rafi\app\src\main\AndroidManifest.xml:40:13-37
+	android:name
+		ADDED from D:\Application\TalentHub-Mobile-rafi\app\src\main\AndroidManifest.xml:39:13-69
+activity#com.ch2ps075.talenthub.ui.WelcomeActivity
+ADDED from D:\Application\TalentHub-Mobile-rafi\app\src\main\AndroidManifest.xml:41:9-43:39
+	android:exported
+		ADDED from D:\Application\TalentHub-Mobile-rafi\app\src\main\AndroidManifest.xml:43:13-36
+	android:name
+		ADDED from D:\Application\TalentHub-Mobile-rafi\app\src\main\AndroidManifest.xml:42:13-47
+activity#com.ch2ps075.talenthub.ui.auth.register.RegisterActivity
+ADDED from D:\Application\TalentHub-Mobile-rafi\app\src\main\AndroidManifest.xml:44:9-46:40
+	android:exported
+		ADDED from D:\Application\TalentHub-Mobile-rafi\app\src\main\AndroidManifest.xml:46:13-37
+	android:name
+		ADDED from D:\Application\TalentHub-Mobile-rafi\app\src\main\AndroidManifest.xml:45:13-62
+activity#com.ch2ps075.talenthub.ui.auth.registertalent.RegisterTalentActivity
+ADDED from D:\Application\TalentHub-Mobile-rafi\app\src\main\AndroidManifest.xml:47:9-49:40
+	android:exported
+		ADDED from D:\Application\TalentHub-Mobile-rafi\app\src\main\AndroidManifest.xml:49:13-37
+	android:name
+		ADDED from D:\Application\TalentHub-Mobile-rafi\app\src\main\AndroidManifest.xml:48:13-74
+activity#com.ch2ps075.talenthub.ui.auth.login.LoginActivity
+ADDED from D:\Application\TalentHub-Mobile-rafi\app\src\main\AndroidManifest.xml:50:9-52:39
+	android:exported
+		ADDED from D:\Application\TalentHub-Mobile-rafi\app\src\main\AndroidManifest.xml:52:13-36
+	android:name
+		ADDED from D:\Application\TalentHub-Mobile-rafi\app\src\main\AndroidManifest.xml:51:13-56
+activity#com.ch2ps075.talenthub.ui.main.MainActivity
+ADDED from D:\Application\TalentHub-Mobile-rafi\app\src\main\AndroidManifest.xml:53:9-62:20
+	android:exported
+		ADDED from D:\Application\TalentHub-Mobile-rafi\app\src\main\AndroidManifest.xml:55:13-36
+	android:theme
+		ADDED from D:\Application\TalentHub-Mobile-rafi\app\src\main\AndroidManifest.xml:56:13-51
+	android:name
+		ADDED from D:\Application\TalentHub-Mobile-rafi\app\src\main\AndroidManifest.xml:54:13-49
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from D:\Application\TalentHub-Mobile-rafi\app\src\main\AndroidManifest.xml:57:13-61:29
+action#android.intent.action.MAIN
+ADDED from D:\Application\TalentHub-Mobile-rafi\app\src\main\AndroidManifest.xml:58:17-69
+	android:name
+		ADDED from D:\Application\TalentHub-Mobile-rafi\app\src\main\AndroidManifest.xml:58:25-66
+category#android.intent.category.LAUNCHER
+ADDED from D:\Application\TalentHub-Mobile-rafi\app\src\main\AndroidManifest.xml:60:17-77
+	android:name
+		ADDED from D:\Application\TalentHub-Mobile-rafi\app\src\main\AndroidManifest.xml:60:27-74
+meta-data#preloaded_fonts
+ADDED from D:\Application\TalentHub-Mobile-rafi\app\src\main\AndroidManifest.xml:64:9-66:57
+	android:resource
+		ADDED from D:\Application\TalentHub-Mobile-rafi\app\src\main\AndroidManifest.xml:66:13-54
+	android:name
+		ADDED from D:\Application\TalentHub-Mobile-rafi\app\src\main\AndroidManifest.xml:65:13-43
+uses-sdk
+INJECTED from D:\Application\TalentHub-Mobile-rafi\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from D:\Application\TalentHub-Mobile-rafi\app\src\main\AndroidManifest.xml
+INJECTED from D:\Application\TalentHub-Mobile-rafi\app\src\main\AndroidManifest.xml
+MERGED from [androidx.databinding:viewbinding:8.1.1] D:\Application\TalentHub-Mobile-main\caches\transforms-3\6f7b58fbbc4e7c800f5b383586cc93a6\transformed\viewbinding-8.1.1\AndroidManifest.xml:5:5-44
+MERGED from [androidx.databinding:viewbinding:8.1.1] D:\Application\TalentHub-Mobile-main\caches\transforms-3\6f7b58fbbc4e7c800f5b383586cc93a6\transformed\viewbinding-8.1.1\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.material:material:1.10.0] D:\Application\TalentHub-Mobile-main\caches\transforms-3\3856170f3063a2a5b6f1a15407858af4\transformed\material-1.10.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.10.0] D:\Application\TalentHub-Mobile-main\caches\transforms-3\3856170f3063a2a5b6f1a15407858af4\transformed\material-1.10.0\AndroidManifest.xml:20:5-44
+MERGED from [com.github.bumptech.glide:okhttp3-integration:4.16.0] D:\Application\TalentHub-Mobile-main\caches\transforms-3\c00ca670f4efe5b5848e8d7a46e473ab\transformed\okhttp3-integration-4.16.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.bumptech.glide:okhttp3-integration:4.16.0] D:\Application\TalentHub-Mobile-main\caches\transforms-3\c00ca670f4efe5b5848e8d7a46e473ab\transformed\okhttp3-integration-4.16.0\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] D:\Application\TalentHub-Mobile-main\caches\transforms-3\519fca0b05ee037953bb29461e0525ef\transformed\constraintlayout-2.1.4\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] D:\Application\TalentHub-Mobile-main\caches\transforms-3\519fca0b05ee037953bb29461e0525ef\transformed\constraintlayout-2.1.4\AndroidManifest.xml:5:5-7:41
+MERGED from [com.airbnb.android:lottie:6.2.0] D:\Application\TalentHub-Mobile-main\caches\transforms-3\a6cd61185270b972d9a7bdb312ffe08a\transformed\lottie-6.2.0\AndroidManifest.xml:5:5-44
+MERGED from [com.airbnb.android:lottie:6.2.0] D:\Application\TalentHub-Mobile-main\caches\transforms-3\a6cd61185270b972d9a7bdb312ffe08a\transformed\lottie-6.2.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.appcompat:appcompat-resources:1.6.1] D:\Application\TalentHub-Mobile-main\caches\transforms-3\8722e67971aac3b6b1a14cbaacc27b34\transformed\appcompat-resources-1.6.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat-resources:1.6.1] D:\Application\TalentHub-Mobile-main\caches\transforms-3\8722e67971aac3b6b1a14cbaacc27b34\transformed\appcompat-resources-1.6.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.6.1] D:\Application\TalentHub-Mobile-main\caches\transforms-3\df8fd3ea305061ff6a0a98c05bafc5fb\transformed\appcompat-1.6.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.6.1] D:\Application\TalentHub-Mobile-main\caches\transforms-3\df8fd3ea305061ff6a0a98c05bafc5fb\transformed\appcompat-1.6.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] D:\Application\TalentHub-Mobile-main\caches\transforms-3\b1a5a31096d5e430a8978a22c3f66eb6\transformed\viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] D:\Application\TalentHub-Mobile-main\caches\transforms-3\b1a5a31096d5e430a8978a22c3f66eb6\transformed\viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [com.github.bumptech.glide:glide:4.16.0] D:\Application\TalentHub-Mobile-main\caches\transforms-3\1304ab28067ed72fc98216afa43b2193\transformed\glide-4.16.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.bumptech.glide:glide:4.16.0] D:\Application\TalentHub-Mobile-main\caches\transforms-3\1304ab28067ed72fc98216afa43b2193\transformed\glide-4.16.0\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.fragment:fragment:1.6.2] D:\Application\TalentHub-Mobile-main\caches\transforms-3\e9e7054bbd287d50764376717c937d67\transformed\fragment-1.6.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.6.2] D:\Application\TalentHub-Mobile-main\caches\transforms-3\e9e7054bbd287d50764376717c937d67\transformed\fragment-1.6.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment-ktx:1.6.2] D:\Application\TalentHub-Mobile-main\caches\transforms-3\526f155e5199613cb6919d2ee776a53b\transformed\fragment-ktx-1.6.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment-ktx:1.6.2] D:\Application\TalentHub-Mobile-main\caches\transforms-3\526f155e5199613cb6919d2ee776a53b\transformed\fragment-ktx-1.6.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.8.1] D:\Application\TalentHub-Mobile-main\caches\transforms-3\aab05dbf63a4fd308a354eb0a38fd74c\transformed\activity-1.8.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.8.1] D:\Application\TalentHub-Mobile-main\caches\transforms-3\aab05dbf63a4fd308a354eb0a38fd74c\transformed\activity-1.8.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity-ktx:1.8.1] D:\Application\TalentHub-Mobile-main\caches\transforms-3\f16a03715f0d33e96487ce77e03d612d\transformed\activity-ktx-1.8.1\AndroidManifest.xml:5:5-44
+MERGED from [androidx.activity:activity-ktx:1.8.1] D:\Application\TalentHub-Mobile-main\caches\transforms-3\f16a03715f0d33e96487ce77e03d612d\transformed\activity-ktx-1.8.1\AndroidManifest.xml:5:5-44
+MERGED from [androidx.emoji2:emoji2-views-helper:1.2.0] D:\Application\TalentHub-Mobile-main\caches\transforms-3\0178884701b751cbe412741691545e0a\transformed\emoji2-views-helper-1.2.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.emoji2:emoji2-views-helper:1.2.0] D:\Application\TalentHub-Mobile-main\caches\transforms-3\0178884701b751cbe412741691545e0a\transformed\emoji2-views-helper-1.2.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.emoji2:emoji2:1.2.0] D:\Application\TalentHub-Mobile-main\caches\transforms-3\2fa8c2015e4fa5568ecc1dd68dd2726b\transformed\emoji2-1.2.0\AndroidManifest.xml:21:5-44
+MERGED from [androidx.emoji2:emoji2:1.2.0] D:\Application\TalentHub-Mobile-main\caches\transforms-3\2fa8c2015e4fa5568ecc1dd68dd2726b\transformed\emoji2-1.2.0\AndroidManifest.xml:21:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.6.2] D:\Application\TalentHub-Mobile-main\caches\transforms-3\3051f7ec365386d4a7663704520ed878\transformed\lifecycle-livedata-core-2.6.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.6.2] D:\Application\TalentHub-Mobile-main\caches\transforms-3\3051f7ec365386d4a7663704520ed878\transformed\lifecycle-livedata-core-2.6.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate-ktx:1.2.1] D:\Application\TalentHub-Mobile-main\caches\transforms-3\f8888e5baf63c18d410155d99c795734\transformed\savedstate-ktx-1.2.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate-ktx:1.2.1] D:\Application\TalentHub-Mobile-main\caches\transforms-3\f8888e5baf63c18d410155d99c795734\transformed\savedstate-ktx-1.2.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.2.1] D:\Application\TalentHub-Mobile-main\caches\transforms-3\8d61dd6760c791efbf387f5a38f86293\transformed\savedstate-1.2.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.2.1] D:\Application\TalentHub-Mobile-main\caches\transforms-3\8d61dd6760c791efbf387f5a38f86293\transformed\savedstate-1.2.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.2] D:\Application\TalentHub-Mobile-main\caches\transforms-3\ed433810c27cfbaa0ca6acb13ca4ab7a\transformed\lifecycle-process-2.6.2\AndroidManifest.xml:21:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.2] D:\Application\TalentHub-Mobile-main\caches\transforms-3\ed433810c27cfbaa0ca6acb13ca4ab7a\transformed\lifecycle-process-2.6.2\AndroidManifest.xml:21:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.6.2] D:\Application\TalentHub-Mobile-main\caches\transforms-3\100d513f1c9c1d40600c133a3fad05e3\transformed\lifecycle-viewmodel-ktx-2.6.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.6.2] D:\Application\TalentHub-Mobile-main\caches\transforms-3\100d513f1c9c1d40600c133a3fad05e3\transformed\lifecycle-viewmodel-ktx-2.6.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] D:\Application\TalentHub-Mobile-main\caches\transforms-3\e2654209b680be85046791cb7d959fb9\transformed\dynamicanimation-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] D:\Application\TalentHub-Mobile-main\caches\transforms-3\e2654209b680be85046791cb7d959fb9\transformed\dynamicanimation-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] D:\Application\TalentHub-Mobile-main\caches\transforms-3\b4ba933096bd076ff8df8fd3f41abbf9\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] D:\Application\TalentHub-Mobile-main\caches\transforms-3\b4ba933096bd076ff8df8fd3f41abbf9\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] D:\Application\TalentHub-Mobile-main\caches\transforms-3\16d9b90f96538192dbfe4e146ca56dd7\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] D:\Application\TalentHub-Mobile-main\caches\transforms-3\16d9b90f96538192dbfe4e146ca56dd7\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.6.2] D:\Application\TalentHub-Mobile-main\caches\transforms-3\66ea1bcdb1de842fa6b02d467e1eb627\transformed\lifecycle-livedata-2.6.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.6.2] D:\Application\TalentHub-Mobile-main\caches\transforms-3\66ea1bcdb1de842fa6b02d467e1eb627\transformed\lifecycle-livedata-2.6.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.6.2] D:\Application\TalentHub-Mobile-main\caches\transforms-3\7a631078d5199c3b5fd373e92a7c52a1\transformed\lifecycle-viewmodel-2.6.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.6.2] D:\Application\TalentHub-Mobile-main\caches\transforms-3\7a631078d5199c3b5fd373e92a7c52a1\transformed\lifecycle-viewmodel-2.6.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.6.2] D:\Application\TalentHub-Mobile-main\caches\transforms-3\5d7851e05450cd87b9a811047ec71005\transformed\lifecycle-livedata-core-ktx-2.6.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.6.2] D:\Application\TalentHub-Mobile-main\caches\transforms-3\5d7851e05450cd87b9a811047ec71005\transformed\lifecycle-livedata-core-ktx-2.6.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.6.2] D:\Application\TalentHub-Mobile-main\caches\transforms-3\f5740d37f7d173a9667edbd9dadd30ce\transformed\lifecycle-viewmodel-savedstate-2.6.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.6.2] D:\Application\TalentHub-Mobile-main\caches\transforms-3\f5740d37f7d173a9667edbd9dadd30ce\transformed\lifecycle-viewmodel-savedstate-2.6.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core-ktx:1.12.0] D:\Application\TalentHub-Mobile-main\caches\transforms-3\1db9b8991ada8bd443d6f0dc80269ebc\transformed\core-ktx-1.12.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.core:core-ktx:1.12.0] D:\Application\TalentHub-Mobile-main\caches\transforms-3\1db9b8991ada8bd443d6f0dc80269ebc\transformed\core-ktx-1.12.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] D:\Application\TalentHub-Mobile-main\caches\transforms-3\6cef844170682b7979df42aaa53c345c\transformed\drawerlayout-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] D:\Application\TalentHub-Mobile-main\caches\transforms-3\6cef844170682b7979df42aaa53c345c\transformed\drawerlayout-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] D:\Application\TalentHub-Mobile-main\caches\transforms-3\24cc4ea3a34f635473b150367ad91543\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] D:\Application\TalentHub-Mobile-main\caches\transforms-3\24cc4ea3a34f635473b150367ad91543\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] D:\Application\TalentHub-Mobile-main\caches\transforms-3\015d923f38a84ed83e552dd4719f5ae2\transformed\transition-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] D:\Application\TalentHub-Mobile-main\caches\transforms-3\015d923f38a84ed83e552dd4719f5ae2\transformed\transition-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] D:\Application\TalentHub-Mobile-main\caches\transforms-3\833cc8c08d95ed612becc1035ab7d2fa\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] D:\Application\TalentHub-Mobile-main\caches\transforms-3\833cc8c08d95ed612becc1035ab7d2fa\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] D:\Application\TalentHub-Mobile-main\caches\transforms-3\5cd346e64f64a720fb027d239e8fbea3\transformed\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] D:\Application\TalentHub-Mobile-main\caches\transforms-3\5cd346e64f64a720fb027d239e8fbea3\transformed\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] D:\Application\TalentHub-Mobile-main\caches\transforms-3\f972288289285c123fa42005e175baa0\transformed\recyclerview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] D:\Application\TalentHub-Mobile-main\caches\transforms-3\f972288289285c123fa42005e175baa0\transformed\recyclerview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] D:\Application\TalentHub-Mobile-main\caches\transforms-3\384d4824a795c9fca226c743ef91c124\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] D:\Application\TalentHub-Mobile-main\caches\transforms-3\384d4824a795c9fca226c743ef91c124\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.1.0] D:\Application\TalentHub-Mobile-main\caches\transforms-3\602ebf3fd01fdd3605680b14ddf7e44f\transformed\customview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.1.0] D:\Application\TalentHub-Mobile-main\caches\transforms-3\602ebf3fd01fdd3605680b14ddf7e44f\transformed\customview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.12.0] D:\Application\TalentHub-Mobile-main\caches\transforms-3\d824cf6e8ea15ac6a513e7f0a02667ee\transformed\core-1.12.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.12.0] D:\Application\TalentHub-Mobile-main\caches\transforms-3\d824cf6e8ea15ac6a513e7f0a02667ee\transformed\core-1.12.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.6.2] D:\Application\TalentHub-Mobile-main\caches\transforms-3\9be85c9f8d1768a33513c20d861cccb6\transformed\lifecycle-runtime-2.6.2\AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.6.2] D:\Application\TalentHub-Mobile-main\caches\transforms-3\9be85c9f8d1768a33513c20d861cccb6\transformed\lifecycle-runtime-2.6.2\AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-ktx:2.6.2] D:\Application\TalentHub-Mobile-main\caches\transforms-3\be3b3f12e582b7f9462e8830b8cfd6a2\transformed\lifecycle-livedata-ktx-2.6.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-ktx:2.6.2] D:\Application\TalentHub-Mobile-main\caches\transforms-3\be3b3f12e582b7f9462e8830b8cfd6a2\transformed\lifecycle-livedata-ktx-2.6.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.6.2] D:\Application\TalentHub-Mobile-main\caches\transforms-3\c3c7e7885f1c5a014cdb72671c76d6e5\transformed\lifecycle-runtime-ktx-2.6.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.6.2] D:\Application\TalentHub-Mobile-main\caches\transforms-3\c3c7e7885f1c5a014cdb72671c76d6e5\transformed\lifecycle-runtime-ktx-2.6.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.datastore:datastore-preferences:1.0.0] D:\Application\TalentHub-Mobile-main\caches\transforms-3\16e17928568b115978215bcbc3a49786\transformed\datastore-preferences-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.datastore:datastore-preferences:1.0.0] D:\Application\TalentHub-Mobile-main\caches\transforms-3\16e17928568b115978215bcbc3a49786\transformed\datastore-preferences-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.datastore:datastore:1.0.0] D:\Application\TalentHub-Mobile-main\caches\transforms-3\525508dd1264101c4616c221d41e29a5\transformed\datastore-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.datastore:datastore:1.0.0] D:\Application\TalentHub-Mobile-main\caches\transforms-3\525508dd1264101c4616c221d41e29a5\transformed\datastore-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [com.github.f0ris.sweetalert:library:1.6.2] D:\Application\TalentHub-Mobile-main\caches\transforms-3\1a25494628f95b7ca02a7c10c32c086c\transformed\library-1.6.2\AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.f0ris.sweetalert:library:1.6.2] D:\Application\TalentHub-Mobile-main\caches\transforms-3\1a25494628f95b7ca02a7c10c32c086c\transformed\library-1.6.2\AndroidManifest.xml:7:5-9:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] D:\Application\TalentHub-Mobile-main\caches\transforms-3\027415f0993a6f71a3a341c0b5bbcc9e\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] D:\Application\TalentHub-Mobile-main\caches\transforms-3\027415f0993a6f71a3a341c0b5bbcc9e\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] D:\Application\TalentHub-Mobile-main\caches\transforms-3\1d4aeef5f2ef8a0d56b206b49a66c121\transformed\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] D:\Application\TalentHub-Mobile-main\caches\transforms-3\1d4aeef5f2ef8a0d56b206b49a66c121\transformed\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] D:\Application\TalentHub-Mobile-main\caches\transforms-3\b1d1d5334cc6b60a8512ef76229f7b57\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] D:\Application\TalentHub-Mobile-main\caches\transforms-3\b1d1d5334cc6b60a8512ef76229f7b57\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [com.github.bumptech.glide:gifdecoder:4.16.0] D:\Application\TalentHub-Mobile-main\caches\transforms-3\958346eb869f3257d7a9f911c8b00e03\transformed\gifdecoder-4.16.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.bumptech.glide:gifdecoder:4.16.0] D:\Application\TalentHub-Mobile-main\caches\transforms-3\958346eb869f3257d7a9f911c8b00e03\transformed\gifdecoder-4.16.0\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.exifinterface:exifinterface:1.3.6] D:\Application\TalentHub-Mobile-main\caches\transforms-3\6c4c7d75058e90e1bb36bfe194c781b2\transformed\exifinterface-1.3.6\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.exifinterface:exifinterface:1.3.6] D:\Application\TalentHub-Mobile-main\caches\transforms-3\6c4c7d75058e90e1bb36bfe194c781b2\transformed\exifinterface-1.3.6\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] D:\Application\TalentHub-Mobile-main\caches\transforms-3\03fd82e387328772f15e61e8df347a45\transformed\profileinstaller-1.3.0\AndroidManifest.xml:21:5-44
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] D:\Application\TalentHub-Mobile-main\caches\transforms-3\03fd82e387328772f15e61e8df347a45\transformed\profileinstaller-1.3.0\AndroidManifest.xml:21:5-44
+MERGED from [androidx.startup:startup-runtime:1.1.1] D:\Application\TalentHub-Mobile-main\caches\transforms-3\c637a138853157efda41ecf20627cd1d\transformed\startup-runtime-1.1.1\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.startup:startup-runtime:1.1.1] D:\Application\TalentHub-Mobile-main\caches\transforms-3\c637a138853157efda41ecf20627cd1d\transformed\startup-runtime-1.1.1\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.tracing:tracing:1.0.0] D:\Application\TalentHub-Mobile-main\caches\transforms-3\a4bd5d50fab0524e005007eed02bac78\transformed\tracing-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] D:\Application\TalentHub-Mobile-main\caches\transforms-3\a4bd5d50fab0524e005007eed02bac78\transformed\tracing-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] D:\Application\TalentHub-Mobile-main\caches\transforms-3\53ccecdf79124a5cdd1f9e0b429821af\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] D:\Application\TalentHub-Mobile-main\caches\transforms-3\53ccecdf79124a5cdd1f9e0b429821af\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.2.0] D:\Application\TalentHub-Mobile-main\caches\transforms-3\7b68e146fbca8691b2abed60642e0034\transformed\core-runtime-2.2.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.2.0] D:\Application\TalentHub-Mobile-main\caches\transforms-3\7b68e146fbca8691b2abed60642e0034\transformed\core-runtime-2.2.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] D:\Application\TalentHub-Mobile-main\caches\transforms-3\e91bff57630575321eba9dd3b6a0a899\transformed\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] D:\Application\TalentHub-Mobile-main\caches\transforms-3\e91bff57630575321eba9dd3b6a0a899\transformed\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] D:\Application\TalentHub-Mobile-main\caches\transforms-3\ce372983662a8dca2d6fe85e01cb8728\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] D:\Application\TalentHub-Mobile-main\caches\transforms-3\ce372983662a8dca2d6fe85e01cb8728\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] D:\Application\TalentHub-Mobile-main\caches\transforms-3\640e1414018eadadf09f58e2f43b1e1d\transformed\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] D:\Application\TalentHub-Mobile-main\caches\transforms-3\640e1414018eadadf09f58e2f43b1e1d\transformed\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.3.0] D:\Application\TalentHub-Mobile-main\caches\transforms-3\bf208cfaf7e9d5526d162101d3649843\transformed\annotation-experimental-1.3.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.3.0] D:\Application\TalentHub-Mobile-main\caches\transforms-3\bf208cfaf7e9d5526d162101d3649843\transformed\annotation-experimental-1.3.0\AndroidManifest.xml:20:5-44
+MERGED from [com.pnikosis:materialish-progress:1.7] D:\Application\TalentHub-Mobile-main\caches\transforms-3\f479301455410c879893275060ce1b26\transformed\materialish-progress-1.7\AndroidManifest.xml:7:5-9:41
+MERGED from [com.pnikosis:materialish-progress:1.7] D:\Application\TalentHub-Mobile-main\caches\transforms-3\f479301455410c879893275060ce1b26\transformed\materialish-progress-1.7\AndroidManifest.xml:7:5-9:41
+	android:targetSdkVersion
+		INJECTED from D:\Application\TalentHub-Mobile-rafi\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from D:\Application\TalentHub-Mobile-rafi\app\src\main\AndroidManifest.xml
+meta-data#com.bumptech.glide.integration.okhttp3.OkHttpGlideModule
+ADDED from [com.github.bumptech.glide:okhttp3-integration:4.16.0] D:\Application\TalentHub-Mobile-main\caches\transforms-3\c00ca670f4efe5b5848e8d7a46e473ab\transformed\okhttp3-integration-4.16.0\AndroidManifest.xml:10:9-12:43
+	android:value
+		ADDED from [com.github.bumptech.glide:okhttp3-integration:4.16.0] D:\Application\TalentHub-Mobile-main\caches\transforms-3\c00ca670f4efe5b5848e8d7a46e473ab\transformed\okhttp3-integration-4.16.0\AndroidManifest.xml:12:13-40
+	android:name
+		ADDED from [com.github.bumptech.glide:okhttp3-integration:4.16.0] D:\Application\TalentHub-Mobile-main\caches\transforms-3\c00ca670f4efe5b5848e8d7a46e473ab\transformed\okhttp3-integration-4.16.0\AndroidManifest.xml:11:13-84
+provider#androidx.startup.InitializationProvider
+ADDED from [androidx.emoji2:emoji2:1.2.0] D:\Application\TalentHub-Mobile-main\caches\transforms-3\2fa8c2015e4fa5568ecc1dd68dd2726b\transformed\emoji2-1.2.0\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.2] D:\Application\TalentHub-Mobile-main\caches\transforms-3\ed433810c27cfbaa0ca6acb13ca4ab7a\transformed\lifecycle-process-2.6.2\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.2] D:\Application\TalentHub-Mobile-main\caches\transforms-3\ed433810c27cfbaa0ca6acb13ca4ab7a\transformed\lifecycle-process-2.6.2\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] D:\Application\TalentHub-Mobile-main\caches\transforms-3\03fd82e387328772f15e61e8df347a45\transformed\profileinstaller-1.3.0\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] D:\Application\TalentHub-Mobile-main\caches\transforms-3\03fd82e387328772f15e61e8df347a45\transformed\profileinstaller-1.3.0\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.startup:startup-runtime:1.1.1] D:\Application\TalentHub-Mobile-main\caches\transforms-3\c637a138853157efda41ecf20627cd1d\transformed\startup-runtime-1.1.1\AndroidManifest.xml:26:9-30:34
+MERGED from [androidx.startup:startup-runtime:1.1.1] D:\Application\TalentHub-Mobile-main\caches\transforms-3\c637a138853157efda41ecf20627cd1d\transformed\startup-runtime-1.1.1\AndroidManifest.xml:26:9-30:34
+	tools:node
+		ADDED from [androidx.emoji2:emoji2:1.2.0] D:\Application\TalentHub-Mobile-main\caches\transforms-3\2fa8c2015e4fa5568ecc1dd68dd2726b\transformed\emoji2-1.2.0\AndroidManifest.xml:28:13-31
+	android:authorities
+		ADDED from [androidx.emoji2:emoji2:1.2.0] D:\Application\TalentHub-Mobile-main\caches\transforms-3\2fa8c2015e4fa5568ecc1dd68dd2726b\transformed\emoji2-1.2.0\AndroidManifest.xml:26:13-68
+	android:exported
+		ADDED from [androidx.emoji2:emoji2:1.2.0] D:\Application\TalentHub-Mobile-main\caches\transforms-3\2fa8c2015e4fa5568ecc1dd68dd2726b\transformed\emoji2-1.2.0\AndroidManifest.xml:27:13-37
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.2.0] D:\Application\TalentHub-Mobile-main\caches\transforms-3\2fa8c2015e4fa5568ecc1dd68dd2726b\transformed\emoji2-1.2.0\AndroidManifest.xml:25:13-67
+meta-data#androidx.emoji2.text.EmojiCompatInitializer
+ADDED from [androidx.emoji2:emoji2:1.2.0] D:\Application\TalentHub-Mobile-main\caches\transforms-3\2fa8c2015e4fa5568ecc1dd68dd2726b\transformed\emoji2-1.2.0\AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.emoji2:emoji2:1.2.0] D:\Application\TalentHub-Mobile-main\caches\transforms-3\2fa8c2015e4fa5568ecc1dd68dd2726b\transformed\emoji2-1.2.0\AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.2.0] D:\Application\TalentHub-Mobile-main\caches\transforms-3\2fa8c2015e4fa5568ecc1dd68dd2726b\transformed\emoji2-1.2.0\AndroidManifest.xml:30:17-75
+meta-data#androidx.lifecycle.ProcessLifecycleInitializer
+ADDED from [androidx.lifecycle:lifecycle-process:2.6.2] D:\Application\TalentHub-Mobile-main\caches\transforms-3\ed433810c27cfbaa0ca6acb13ca4ab7a\transformed\lifecycle-process-2.6.2\AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.lifecycle:lifecycle-process:2.6.2] D:\Application\TalentHub-Mobile-main\caches\transforms-3\ed433810c27cfbaa0ca6acb13ca4ab7a\transformed\lifecycle-process-2.6.2\AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.lifecycle:lifecycle-process:2.6.2] D:\Application\TalentHub-Mobile-main\caches\transforms-3\ed433810c27cfbaa0ca6acb13ca4ab7a\transformed\lifecycle-process-2.6.2\AndroidManifest.xml:30:17-78
+permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.12.0] D:\Application\TalentHub-Mobile-main\caches\transforms-3\d824cf6e8ea15ac6a513e7f0a02667ee\transformed\core-1.12.0\AndroidManifest.xml:22:5-24:47
+	android:protectionLevel
+		ADDED from [androidx.core:core:1.12.0] D:\Application\TalentHub-Mobile-main\caches\transforms-3\d824cf6e8ea15ac6a513e7f0a02667ee\transformed\core-1.12.0\AndroidManifest.xml:24:9-44
+	android:name
+		ADDED from [androidx.core:core:1.12.0] D:\Application\TalentHub-Mobile-main\caches\transforms-3\d824cf6e8ea15ac6a513e7f0a02667ee\transformed\core-1.12.0\AndroidManifest.xml:23:9-81
+permission#com.ch2ps075.talenthub.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.12.0] D:\Application\TalentHub-Mobile-main\caches\transforms-3\d824cf6e8ea15ac6a513e7f0a02667ee\transformed\core-1.12.0\AndroidManifest.xml:22:5-24:47
+	android:protectionLevel
+		ADDED from [androidx.core:core:1.12.0] D:\Application\TalentHub-Mobile-main\caches\transforms-3\d824cf6e8ea15ac6a513e7f0a02667ee\transformed\core-1.12.0\AndroidManifest.xml:24:9-44
+	android:name
+		ADDED from [androidx.core:core:1.12.0] D:\Application\TalentHub-Mobile-main\caches\transforms-3\d824cf6e8ea15ac6a513e7f0a02667ee\transformed\core-1.12.0\AndroidManifest.xml:23:9-81
+uses-permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.12.0] D:\Application\TalentHub-Mobile-main\caches\transforms-3\d824cf6e8ea15ac6a513e7f0a02667ee\transformed\core-1.12.0\AndroidManifest.xml:26:5-97
+	android:name
+		ADDED from [androidx.core:core:1.12.0] D:\Application\TalentHub-Mobile-main\caches\transforms-3\d824cf6e8ea15ac6a513e7f0a02667ee\transformed\core-1.12.0\AndroidManifest.xml:26:22-94
+uses-permission#com.ch2ps075.talenthub.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.12.0] D:\Application\TalentHub-Mobile-main\caches\transforms-3\d824cf6e8ea15ac6a513e7f0a02667ee\transformed\core-1.12.0\AndroidManifest.xml:26:5-97
+	android:name
+		ADDED from [androidx.core:core:1.12.0] D:\Application\TalentHub-Mobile-main\caches\transforms-3\d824cf6e8ea15ac6a513e7f0a02667ee\transformed\core-1.12.0\AndroidManifest.xml:26:22-94
+meta-data#androidx.profileinstaller.ProfileInstallerInitializer
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] D:\Application\TalentHub-Mobile-main\caches\transforms-3\03fd82e387328772f15e61e8df347a45\transformed\profileinstaller-1.3.0\AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] D:\Application\TalentHub-Mobile-main\caches\transforms-3\03fd82e387328772f15e61e8df347a45\transformed\profileinstaller-1.3.0\AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] D:\Application\TalentHub-Mobile-main\caches\transforms-3\03fd82e387328772f15e61e8df347a45\transformed\profileinstaller-1.3.0\AndroidManifest.xml:30:17-85
+receiver#androidx.profileinstaller.ProfileInstallReceiver
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] D:\Application\TalentHub-Mobile-main\caches\transforms-3\03fd82e387328772f15e61e8df347a45\transformed\profileinstaller-1.3.0\AndroidManifest.xml:34:9-52:20
+	android:enabled
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] D:\Application\TalentHub-Mobile-main\caches\transforms-3\03fd82e387328772f15e61e8df347a45\transformed\profileinstaller-1.3.0\AndroidManifest.xml:37:13-35
+	android:exported
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] D:\Application\TalentHub-Mobile-main\caches\transforms-3\03fd82e387328772f15e61e8df347a45\transformed\profileinstaller-1.3.0\AndroidManifest.xml:38:13-36
+	android:permission
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] D:\Application\TalentHub-Mobile-main\caches\transforms-3\03fd82e387328772f15e61e8df347a45\transformed\profileinstaller-1.3.0\AndroidManifest.xml:39:13-57
+	android:directBootAware
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] D:\Application\TalentHub-Mobile-main\caches\transforms-3\03fd82e387328772f15e61e8df347a45\transformed\profileinstaller-1.3.0\AndroidManifest.xml:36:13-44
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] D:\Application\TalentHub-Mobile-main\caches\transforms-3\03fd82e387328772f15e61e8df347a45\transformed\profileinstaller-1.3.0\AndroidManifest.xml:35:13-76
+intent-filter#action:name:androidx.profileinstaller.action.INSTALL_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] D:\Application\TalentHub-Mobile-main\caches\transforms-3\03fd82e387328772f15e61e8df347a45\transformed\profileinstaller-1.3.0\AndroidManifest.xml:40:13-42:29
+action#androidx.profileinstaller.action.INSTALL_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] D:\Application\TalentHub-Mobile-main\caches\transforms-3\03fd82e387328772f15e61e8df347a45\transformed\profileinstaller-1.3.0\AndroidManifest.xml:41:17-91
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] D:\Application\TalentHub-Mobile-main\caches\transforms-3\03fd82e387328772f15e61e8df347a45\transformed\profileinstaller-1.3.0\AndroidManifest.xml:41:25-88
+intent-filter#action:name:androidx.profileinstaller.action.SKIP_FILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] D:\Application\TalentHub-Mobile-main\caches\transforms-3\03fd82e387328772f15e61e8df347a45\transformed\profileinstaller-1.3.0\AndroidManifest.xml:43:13-45:29
+action#androidx.profileinstaller.action.SKIP_FILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] D:\Application\TalentHub-Mobile-main\caches\transforms-3\03fd82e387328772f15e61e8df347a45\transformed\profileinstaller-1.3.0\AndroidManifest.xml:44:17-85
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] D:\Application\TalentHub-Mobile-main\caches\transforms-3\03fd82e387328772f15e61e8df347a45\transformed\profileinstaller-1.3.0\AndroidManifest.xml:44:25-82
+intent-filter#action:name:androidx.profileinstaller.action.SAVE_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] D:\Application\TalentHub-Mobile-main\caches\transforms-3\03fd82e387328772f15e61e8df347a45\transformed\profileinstaller-1.3.0\AndroidManifest.xml:46:13-48:29
+action#androidx.profileinstaller.action.SAVE_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] D:\Application\TalentHub-Mobile-main\caches\transforms-3\03fd82e387328772f15e61e8df347a45\transformed\profileinstaller-1.3.0\AndroidManifest.xml:47:17-88
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] D:\Application\TalentHub-Mobile-main\caches\transforms-3\03fd82e387328772f15e61e8df347a45\transformed\profileinstaller-1.3.0\AndroidManifest.xml:47:25-85
+intent-filter#action:name:androidx.profileinstaller.action.BENCHMARK_OPERATION
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] D:\Application\TalentHub-Mobile-main\caches\transforms-3\03fd82e387328772f15e61e8df347a45\transformed\profileinstaller-1.3.0\AndroidManifest.xml:49:13-51:29
+action#androidx.profileinstaller.action.BENCHMARK_OPERATION
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] D:\Application\TalentHub-Mobile-main\caches\transforms-3\03fd82e387328772f15e61e8df347a45\transformed\profileinstaller-1.3.0\AndroidManifest.xml:50:17-95
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] D:\Application\TalentHub-Mobile-main\caches\transforms-3\03fd82e387328772f15e61e8df347a45\transformed\profileinstaller-1.3.0\AndroidManifest.xml:50:25-92
